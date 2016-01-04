@@ -25,17 +25,17 @@ public class LevelManager : MonoBehaviour {
 	}
 	
 	public void SetNextLevel(string levelToLoadNext) {
-		print ("Setting Level to: " + levelToLoadNext);
+		//print ("Setting Level to: " + levelToLoadNext);
 		this.levelToLoadNext = levelToLoadNext;
 	}
 	
 	public void SetFadeDelay(float fadeDelay) {
-		print ("Setting delay to: " + fadeDelay);
+		//print ("Setting delay to: " + fadeDelay);
 		this.fadeDelay = fadeDelay;
 	}
 	
 	public void LoadWithFadeAndDelay(int faderType) {
-		print ("Loading level with fade type: " + faderType);
+		//print ("Loading level with fade type: " + faderType);
 		fader.StartFadeAnimation(faderType);
 		Invoke ("LoadNextLevel", fadeDelay);
 	}

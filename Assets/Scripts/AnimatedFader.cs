@@ -25,7 +25,7 @@ public class AnimatedFader : MonoBehaviour {
 	}
 	
 	public void StartFadeAnimation (int state) {
-		print ("Setting state to: " + state);
+		//print ("Setting state to: " + state);
 		gameObject.SetActive (true);
 		animator.SetInteger("state", state);
 	}
@@ -35,6 +35,6 @@ public class AnimatedFader : MonoBehaviour {
 	}
 	
 	public void NotifyStart() {
-		print ("Starting Fade OUt anim");
+		//print ("Starting Fade OUt anim");
 	}
 }

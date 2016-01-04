@@ -10,11 +10,25 @@ public class MusicManager : MonoBehaviour {
 	void Awake() {
 		DontDestroyOnLoad(gameObject);
 		audioSource = GetComponent<AudioSource>();
+		ChangeVolume (PlayerPrefsManager.GetMasterVolume ());
+
 	}
 	
 	void OnLevelWasLoaded(int level) {
-		AudioClip thisLevelsMusic = musicOrderChangeArray[level];
-		if(level == 2 || thisLevelsMusic == audioSource.clip) {
+		LoadAudioClip (level);
+	}
+
+	public void ChangeVolume(float volume) {
+		if (volume >= 0 && volume <= 1.0f) {
+			audioSource.volume = volume;
+		} else {
+			Debug.LogError("Volume out of range");
+		}
+	}
+
+	private void LoadAudioClip(int clipToLoad) {
+		AudioClip thisLevelsMusic = musicOrderChangeArray[clipToLoad];
+		if(clipToLoad == 2 || thisLevelsMusic == audioSource.clip) {
 			return;
 		}
 		if(thisLevelsMusic) {

@@ -1,0 +1,311 @@
+fileFormatVersion: 2
+guid: d02810408b06e7d4cadcb8c51deff2bc
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: TV_Walk_Right_0
+    21300002: TV_Walk_Right_1
+    21300004: TV_Walk_Right_2
+    21300006: TV_Walk_Right_3
+    21300008: TV_Walk_Right_4
+    21300010: TV_Walk_Right_5
+    21300012: TV_Walk_Right_6
+    21300014: TV_Walk_Right_7
+    21300016: TV_Walk_Right_8
+    21300018: TV_Walk_Right_9
+    21300020: TV_Walk_Right_10
+    21300022: TV_Walk_Right_11
+    21300024: TV_Walk_Right_12
+    21300026: TV_Walk_Right_13
+    21300028: TV_Walk_Right_14
+    21300030: TV_Walk_Right_15
+    21300032: TV_Walk_Right_16
+    21300034: TV_Walk_Right_17
+    21300036: TV_Walk_Right_18
+    21300038: TV_Walk_Right_19
+    21300040: TV_Walk_Right_20
+    21300042: TV_Walk_Right_21
+    21300044: TV_Walk_Right_22
+    21300046: TV_Walk_Right_23
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 133.332993
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: TV_Walk_Right_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1000
+        width: 185
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TV_Walk_Right_1
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 1000
+        width: 185
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TV_Walk_Right_2
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 1000
+        width: 185
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TV_Walk_Right_3
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 1000
+        width: 185
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TV_Walk_Right_4
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 1000
+        width: 185
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TV_Walk_Right_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 750
+        width: 185
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TV_Walk_Right_6
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 750
+        width: 185
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TV_Walk_Right_7
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 750
+        width: 185
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TV_Walk_Right_8
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 750
+        width: 185
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TV_Walk_Right_9
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 750
+        width: 185
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TV_Walk_Right_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 500
+        width: 185
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TV_Walk_Right_11
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 500
+        width: 185
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TV_Walk_Right_12
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 500
+        width: 185
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TV_Walk_Right_13
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 500
+        width: 185
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TV_Walk_Right_14
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 500
+        width: 185
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TV_Walk_Right_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 250
+        width: 185
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TV_Walk_Right_16
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 250
+        width: 185
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TV_Walk_Right_17
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 250
+        width: 185
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TV_Walk_Right_18
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 250
+        width: 185
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TV_Walk_Right_19
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 250
+        width: 185
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TV_Walk_Right_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 185
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TV_Walk_Right_21
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 0
+        width: 185
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TV_Walk_Right_22
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 0
+        width: 185
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TV_Walk_Right_23
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 0
+        width: 185
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

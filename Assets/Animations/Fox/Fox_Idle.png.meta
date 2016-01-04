@@ -1,0 +1,663 @@
+fileFormatVersion: 2
+guid: 42535af3e1ce28049a58b094037912c2
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: npc_fox_fox_orangeFox_x1_pause_png_1354839592_0
+    21300002: npc_fox_fox_orangeFox_x1_pause_png_1354839592_1
+    21300004: npc_fox_fox_orangeFox_x1_pause_png_1354839592_2
+    21300006: npc_fox_fox_orangeFox_x1_pause_png_1354839592_3
+    21300008: npc_fox_fox_orangeFox_x1_pause_png_1354839592_4
+    21300010: npc_fox_fox_orangeFox_x1_pause_png_1354839592_5
+    21300012: npc_fox_fox_orangeFox_x1_pause_png_1354839592_6
+    21300014: npc_fox_fox_orangeFox_x1_pause_png_1354839592_7
+    21300016: npc_fox_fox_orangeFox_x1_pause_png_1354839592_8
+    21300018: npc_fox_fox_orangeFox_x1_pause_png_1354839592_9
+    21300020: npc_fox_fox_orangeFox_x1_pause_png_1354839592_10
+    21300022: npc_fox_fox_orangeFox_x1_pause_png_1354839592_11
+    21300024: npc_fox_fox_orangeFox_x1_pause_png_1354839592_12
+    21300026: npc_fox_fox_orangeFox_x1_pause_png_1354839592_13
+    21300028: npc_fox_fox_orangeFox_x1_pause_png_1354839592_14
+    21300030: npc_fox_fox_orangeFox_x1_pause_png_1354839592_15
+    21300032: npc_fox_fox_orangeFox_x1_pause_png_1354839592_16
+    21300034: npc_fox_fox_orangeFox_x1_pause_png_1354839592_17
+    21300036: npc_fox_fox_orangeFox_x1_pause_png_1354839592_18
+    21300038: npc_fox_fox_orangeFox_x1_pause_png_1354839592_19
+    21300040: npc_fox_fox_orangeFox_x1_pause_png_1354839592_20
+    21300042: npc_fox_fox_orangeFox_x1_pause_png_1354839592_21
+    21300044: npc_fox_fox_orangeFox_x1_pause_png_1354839592_22
+    21300046: npc_fox_fox_orangeFox_x1_pause_png_1354839592_23
+    21300048: npc_fox_fox_orangeFox_x1_pause_png_1354839592_24
+    21300050: npc_fox_fox_orangeFox_x1_pause_png_1354839592_25
+    21300052: npc_fox_fox_orangeFox_x1_pause_png_1354839592_26
+    21300054: npc_fox_fox_orangeFox_x1_pause_png_1354839592_27
+    21300056: npc_fox_fox_orangeFox_x1_pause_png_1354839592_28
+    21300058: npc_fox_fox_orangeFox_x1_pause_png_1354839592_29
+    21300060: npc_fox_fox_orangeFox_x1_pause_png_1354839592_30
+    21300062: npc_fox_fox_orangeFox_x1_pause_png_1354839592_31
+    21300064: npc_fox_fox_orangeFox_x1_pause_png_1354839592_32
+    21300066: npc_fox_fox_orangeFox_x1_pause_png_1354839592_33
+    21300068: npc_fox_fox_orangeFox_x1_pause_png_1354839592_34
+    21300070: npc_fox_fox_orangeFox_x1_pause_png_1354839592_35
+    21300072: npc_fox_fox_orangeFox_x1_pause_png_1354839592_36
+    21300074: npc_fox_fox_orangeFox_x1_pause_png_1354839592_37
+    21300076: npc_fox_fox_orangeFox_x1_pause_png_1354839592_38
+    21300078: npc_fox_fox_orangeFox_x1_pause_png_1354839592_39
+    21300080: npc_fox_fox_orangeFox_x1_pause_png_1354839592_40
+    21300082: npc_fox_fox_orangeFox_x1_pause_png_1354839592_41
+    21300084: npc_fox_fox_orangeFox_x1_pause_png_1354839592_42
+    21300086: npc_fox_fox_orangeFox_x1_pause_png_1354839592_43
+    21300088: npc_fox_fox_orangeFox_x1_pause_png_1354839592_44
+    21300090: npc_fox_fox_orangeFox_x1_pause_png_1354839592_45
+    21300092: npc_fox_fox_orangeFox_x1_pause_png_1354839592_46
+    21300094: npc_fox_fox_orangeFox_x1_pause_png_1354839592_47
+    21300096: npc_fox_fox_orangeFox_x1_pause_png_1354839592_48
+    21300098: npc_fox_fox_orangeFox_x1_pause_png_1354839592_49
+    21300100: npc_fox_fox_orangeFox_x1_pause_png_1354839592_50
+    21300102: npc_fox_fox_orangeFox_x1_pause_png_1354839592_51
+    21300104: npc_fox_fox_orangeFox_x1_pause_png_1354839592_52
+    21300106: npc_fox_fox_orangeFox_x1_pause_png_1354839592_53
+    21300108: npc_fox_fox_orangeFox_x1_pause_png_1354839592_54
+    21300110: npc_fox_fox_orangeFox_x1_pause_png_1354839592_55
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 133.333298
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: npc_fox_fox_orangeFox_x1_pause_png_1354839592_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1251
+        width: 153
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_fox_fox_orangeFox_x1_pause_png_1354839592_1
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 1251
+        width: 153
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_fox_fox_orangeFox_x1_pause_png_1354839592_2
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 1251
+        width: 153
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_fox_fox_orangeFox_x1_pause_png_1354839592_3
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 1251
+        width: 153
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_fox_fox_orangeFox_x1_pause_png_1354839592_4
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 1251
+        width: 153
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_fox_fox_orangeFox_x1_pause_png_1354839592_5
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 1251
+        width: 153
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_fox_fox_orangeFox_x1_pause_png_1354839592_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1112
+        width: 153
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_fox_fox_orangeFox_x1_pause_png_1354839592_7
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 1112
+        width: 153
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_fox_fox_orangeFox_x1_pause_png_1354839592_8
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 1112
+        width: 153
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_fox_fox_orangeFox_x1_pause_png_1354839592_9
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 1112
+        width: 153
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_fox_fox_orangeFox_x1_pause_png_1354839592_10
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 1112
+        width: 153
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_fox_fox_orangeFox_x1_pause_png_1354839592_11
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 1112
+        width: 153
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_fox_fox_orangeFox_x1_pause_png_1354839592_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 973
+        width: 153
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_fox_fox_orangeFox_x1_pause_png_1354839592_13
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 973
+        width: 153
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_fox_fox_orangeFox_x1_pause_png_1354839592_14
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 973
+        width: 153
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_fox_fox_orangeFox_x1_pause_png_1354839592_15
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 973
+        width: 153
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_fox_fox_orangeFox_x1_pause_png_1354839592_16
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 973
+        width: 153
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_fox_fox_orangeFox_x1_pause_png_1354839592_17
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 973
+        width: 153
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_fox_fox_orangeFox_x1_pause_png_1354839592_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 834
+        width: 153
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_fox_fox_orangeFox_x1_pause_png_1354839592_19
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 834
+        width: 153
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_fox_fox_orangeFox_x1_pause_png_1354839592_20
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 834
+        width: 153
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_fox_fox_orangeFox_x1_pause_png_1354839592_21
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 834
+        width: 153
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_fox_fox_orangeFox_x1_pause_png_1354839592_22
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 834
+        width: 153
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_fox_fox_orangeFox_x1_pause_png_1354839592_23
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 834
+        width: 153
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_fox_fox_orangeFox_x1_pause_png_1354839592_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 695
+        width: 153
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_fox_fox_orangeFox_x1_pause_png_1354839592_25
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 695
+        width: 153
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_fox_fox_orangeFox_x1_pause_png_1354839592_26
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 695
+        width: 153
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_fox_fox_orangeFox_x1_pause_png_1354839592_27
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 695
+        width: 153
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_fox_fox_orangeFox_x1_pause_png_1354839592_28
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 695
+        width: 153
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_fox_fox_orangeFox_x1_pause_png_1354839592_29
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 695
+        width: 153
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_fox_fox_orangeFox_x1_pause_png_1354839592_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 556
+        width: 153
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_fox_fox_orangeFox_x1_pause_png_1354839592_31
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 556
+        width: 153
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_fox_fox_orangeFox_x1_pause_png_1354839592_32
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 556
+        width: 153
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_fox_fox_orangeFox_x1_pause_png_1354839592_33
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 556
+        width: 153
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_fox_fox_orangeFox_x1_pause_png_1354839592_34
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 556
+        width: 153
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_fox_fox_orangeFox_x1_pause_png_1354839592_35
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 556
+        width: 153
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_fox_fox_orangeFox_x1_pause_png_1354839592_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 417
+        width: 153
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_fox_fox_orangeFox_x1_pause_png_1354839592_37
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 417
+        width: 153
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_fox_fox_orangeFox_x1_pause_png_1354839592_38
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 417
+        width: 153
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_fox_fox_orangeFox_x1_pause_png_1354839592_39
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 417
+        width: 153
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_fox_fox_orangeFox_x1_pause_png_1354839592_40
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 417
+        width: 153
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_fox_fox_orangeFox_x1_pause_png_1354839592_41
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 417
+        width: 153
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_fox_fox_orangeFox_x1_pause_png_1354839592_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 278
+        width: 153
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_fox_fox_orangeFox_x1_pause_png_1354839592_43
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 278
+        width: 153
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_fox_fox_orangeFox_x1_pause_png_1354839592_44
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 278
+        width: 153
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_fox_fox_orangeFox_x1_pause_png_1354839592_45
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 278
+        width: 153
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_fox_fox_orangeFox_x1_pause_png_1354839592_46
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 278
+        width: 153
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_fox_fox_orangeFox_x1_pause_png_1354839592_47
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 278
+        width: 153
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_fox_fox_orangeFox_x1_pause_png_1354839592_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 139
+        width: 153
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_fox_fox_orangeFox_x1_pause_png_1354839592_49
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 139
+        width: 153
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_fox_fox_orangeFox_x1_pause_png_1354839592_50
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 139
+        width: 153
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_fox_fox_orangeFox_x1_pause_png_1354839592_51
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 139
+        width: 153
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_fox_fox_orangeFox_x1_pause_png_1354839592_52
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 139
+        width: 153
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_fox_fox_orangeFox_x1_pause_png_1354839592_53
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 139
+        width: 153
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_fox_fox_orangeFox_x1_pause_png_1354839592_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 153
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_fox_fox_orangeFox_x1_pause_png_1354839592_55
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 0
+        width: 153
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
