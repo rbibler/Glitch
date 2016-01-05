@@ -1,0 +1,238 @@
+fileFormatVersion: 2
+guid: 49c74508f77de2548a14144bf507be15
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: npc_jabba1__x1_walk_reverse_png_1354831129_0
+    21300002: npc_jabba1__x1_walk_reverse_png_1354831129_1
+    21300004: npc_jabba1__x1_walk_reverse_png_1354831129_2
+    21300006: npc_jabba1__x1_walk_reverse_png_1354831129_3
+    21300008: npc_jabba1__x1_walk_reverse_png_1354831129_4
+    21300010: npc_jabba1__x1_walk_reverse_png_1354831129_5
+    21300012: npc_jabba1__x1_walk_reverse_png_1354831129_6
+    21300014: npc_jabba1__x1_walk_reverse_png_1354831129_7
+    21300016: npc_jabba1__x1_walk_reverse_png_1354831129_8
+    21300018: npc_jabba1__x1_walk_reverse_png_1354831129_9
+    21300020: npc_jabba1__x1_walk_reverse_png_1354831129_10
+    21300022: npc_jabba1__x1_walk_reverse_png_1354831129_11
+    21300024: npc_jabba1__x1_walk_reverse_png_1354831129_12
+    21300026: npc_jabba1__x1_walk_reverse_png_1354831129_13
+    21300028: npc_jabba1__x1_walk_reverse_png_1354831129_14
+    21300030: Jabba_Walk_0
+    21300032: Jabba_Walk_1
+    21300034: Jabba_Walk_2
+    21300036: Jabba_Walk_3
+    21300038: Jabba_Walk_4
+    21300040: Jabba_Walk_5
+    21300042: Jabba_Walk_6
+    21300044: Jabba_Walk_7
+    21300046: Jabba_Walk_8
+    21300048: Jabba_Walk_9
+    21300050: Jabba_Walk_10
+    21300052: Jabba_Walk_11
+    21300054: Jabba_Walk_12
+    21300056: Jabba_Walk_13
+    21300058: Jabba_Walk_14
+    21300060: Jabba_Walk_15
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 133.300003
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Jabba_Walk_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1407
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Jabba_Walk_1
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 1407
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Jabba_Walk_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1206
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Jabba_Walk_3
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 1206
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Jabba_Walk_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1005
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Jabba_Walk_5
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 1005
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Jabba_Walk_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 804
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Jabba_Walk_7
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 804
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Jabba_Walk_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 603
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Jabba_Walk_9
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 603
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Jabba_Walk_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 402
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Jabba_Walk_11
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 402
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Jabba_Walk_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 201
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Jabba_Walk_13
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 201
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Jabba_Walk_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Jabba_Walk_15
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 0
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
