@@ -1,0 +1,289 @@
+fileFormatVersion: 2
+guid: e953f4546c6c1b1459a47758bea59dc3
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: npc_salmon__x1_swimRight_png_1354840508_0
+    21300002: npc_salmon__x1_swimRight_png_1354840508_1
+    21300004: npc_salmon__x1_swimRight_png_1354840508_2
+    21300006: npc_salmon__x1_swimRight_png_1354840508_3
+    21300008: npc_salmon__x1_swimRight_png_1354840508_4
+    21300010: npc_salmon__x1_swimRight_png_1354840508_5
+    21300012: npc_salmon__x1_swimRight_png_1354840508_6
+    21300014: npc_salmon__x1_swimRight_png_1354840508_7
+    21300016: npc_salmon__x1_swimRight_png_1354840508_8
+    21300018: npc_salmon__x1_swimRight_png_1354840508_9
+    21300020: npc_salmon__x1_swimRight_png_1354840508_10
+    21300022: npc_salmon__x1_swimRight_png_1354840508_11
+    21300024: npc_salmon__x1_swimRight_png_1354840508_12
+    21300026: npc_salmon__x1_swimRight_png_1354840508_13
+    21300028: npc_salmon__x1_swimRight_png_1354840508_14
+    21300030: npc_salmon__x1_swimRight_png_1354840508_15
+    21300032: npc_salmon__x1_swimRight_png_1354840508_16
+    21300034: npc_salmon__x1_swimRight_png_1354840508_17
+    21300036: npc_salmon__x1_swimRight_png_1354840508_18
+    21300038: npc_salmon__x1_swimRight_png_1354840508_19
+    21300040: npc_salmon__x1_swimRight_png_1354840508_20
+    21300042: npc_salmon__x1_swimRight_png_1354840508_21
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 133.300003
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: npc_salmon__x1_swimRight_png_1354840508_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 37
+        width: 59
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_salmon__x1_swimRight_png_1354840508_1
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 37
+        width: 59
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_salmon__x1_swimRight_png_1354840508_2
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 37
+        width: 59
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_salmon__x1_swimRight_png_1354840508_3
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 37
+        width: 59
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_salmon__x1_swimRight_png_1354840508_4
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 37
+        width: 59
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_salmon__x1_swimRight_png_1354840508_5
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 37
+        width: 59
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_salmon__x1_swimRight_png_1354840508_6
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 37
+        width: 59
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_salmon__x1_swimRight_png_1354840508_7
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 37
+        width: 59
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_salmon__x1_swimRight_png_1354840508_8
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 37
+        width: 59
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_salmon__x1_swimRight_png_1354840508_9
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 37
+        width: 59
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_salmon__x1_swimRight_png_1354840508_10
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 37
+        width: 59
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_salmon__x1_swimRight_png_1354840508_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 59
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_salmon__x1_swimRight_png_1354840508_12
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 0
+        width: 59
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_salmon__x1_swimRight_png_1354840508_13
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 0
+        width: 59
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_salmon__x1_swimRight_png_1354840508_14
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 0
+        width: 59
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_salmon__x1_swimRight_png_1354840508_15
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 0
+        width: 59
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_salmon__x1_swimRight_png_1354840508_16
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 0
+        width: 59
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_salmon__x1_swimRight_png_1354840508_17
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 0
+        width: 59
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_salmon__x1_swimRight_png_1354840508_18
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 0
+        width: 59
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_salmon__x1_swimRight_png_1354840508_19
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 0
+        width: 59
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_salmon__x1_swimRight_png_1354840508_20
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 0
+        width: 59
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_salmon__x1_swimRight_png_1354840508_21
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 0
+        width: 59
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
