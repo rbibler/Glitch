@@ -4,7 +4,7 @@ using System.Collections;
 public class Attackers : MonoBehaviour {
 	[Range (-3f, 3f)]
 	public float xVel;
-
+	public Animator animator;
 	// Use this for initialization
 	void Start () {
 	
@@ -19,5 +19,13 @@ public class Attackers : MonoBehaviour {
 	
 	public void SetSpeed(float xVel) {
 		this.xVel = xVel;
+	}
+	
+	public void Attack() {
+		animator.SetBool ("isAttacking", true);
+	}
+	
+	public void CancelAttack() {
+		animator.SetBool ("isAttacking", false);
 	}
 }
