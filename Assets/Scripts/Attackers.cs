@@ -15,9 +15,7 @@ public class Attackers : MonoBehaviour {
 		transform.Translate (Vector3.left * xVel * Time.deltaTime);
 	}
 	
-	void OnTriggerEnter2D(Collider2D col) {
-		Debug.Log (gameObject + " Collided with: " + col.gameObject);
-	}
+
 	
 	public void SetSpeed(float xVel) {
 		this.xVel = xVel;
