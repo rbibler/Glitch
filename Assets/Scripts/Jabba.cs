@@ -25,6 +25,6 @@ public class Jabba : MonoBehaviour {
 		if (!colliderObject.GetComponent<Defender> ()) {
 			return;
 		}
-		attacker.Attack ();
+		attacker.Attack (colliderObject.GetComponent<Defender>());
 	}
 }

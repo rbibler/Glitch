@@ -5,6 +5,8 @@ public class Attacker : MonoBehaviour {
 
 	private float xVel;
 	public Animator animator;
+	
+	private Defender currentTarget;
 	// Use this for initialization
 	void Start () {
 	
@@ -19,11 +21,21 @@ public class Attacker : MonoBehaviour {
 		this.xVel = xVel;
 	}
 	
-	public void Attack() {
+	public void DealDamageToCurrentTarget(float damageToInflict) {
+		if(currentTarget) {
+			if(currentTarget.TakeDamage(damageToInflict)) {
+				CancelAttack();
+			}
+		}
+	}
+	
+	public void Attack(Defender target) {
+		currentTarget = target;
 		animator.SetBool ("isAttacking", true);
 	}
 	
 	public void CancelAttack() {
+		currentTarget = null;
 		animator.SetBool ("isAttacking", false);
 	}
 }

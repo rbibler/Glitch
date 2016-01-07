@@ -22,7 +22,7 @@ public class Fox : MonoBehaviour {
 		if (colObject.GetComponent<Projectile> () || colObject.GetComponent<Stone> ()) {
 			animator.SetTrigger ("Jump");
 		} else {
-			attacker.Attack();
+			attacker.Attack(colObject.GetComponent<Defender>());
 		}
 
 	}

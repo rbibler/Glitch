@@ -26,7 +26,7 @@ public class Clarence : MonoBehaviour {
 			return;
 		}
 
-		attacker.Attack ();
+		attacker.Attack (colObject.GetComponent<Defender>());
 	}
 	
 	
