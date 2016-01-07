@@ -1,21 +1,23 @@
 ﻿using UnityEngine;
 using System.Collections;
 
+[RequireComponent (typeof (Attacker))]
 public class Clarence : MonoBehaviour {
-
-	public Animator animator;
+	
 	public float timeBetweenAttacks;
 	
 	private float lastAttackTime;
-	private Attackers attacker;
+	private Attacker attacker;
 	
 	void Start() {
-		attacker = GetComponentInParent<Attackers>() as Attackers;
+		attacker = GetComponent<Attacker>();
 		lastAttackTime = Time.timeSinceLevelLoad;
 	}
 	
 	void Update() {
-		if(Time.timeSinceLevelLoad - lastAttackTime > timeBetweenAttacks) {
+		float time = Time.timeSinceLevelLoad - lastAttackTime;
+		print (time);
+		if(time > timeBetweenAttacks) {
 			attacker.Attack();
 			lastAttackTime = Time.timeSinceLevelLoad;
 		}

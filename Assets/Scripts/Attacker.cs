@@ -1,9 +1,9 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class Attackers : MonoBehaviour {
-	[Range (-3f, 3f)]
-	public float xVel;
+public class Attacker : MonoBehaviour {
+
+	private float xVel;
 	public Animator animator;
 	// Use this for initialization
 	void Start () {
@@ -14,8 +14,6 @@ public class Attackers : MonoBehaviour {
 	void Update () {
 		transform.Translate (Vector3.left * xVel * Time.deltaTime);
 	}
-	
-
 	
 	public void SetSpeed(float xVel) {
 		this.xVel = xVel;
