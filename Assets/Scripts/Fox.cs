@@ -1,13 +1,28 @@
 ﻿using UnityEngine;
 using System.Collections;
 
+[RequireComponent (typeof (Attacker))]
+[RequireComponent (typeof (Animator))]
+
 public class Fox : MonoBehaviour {
 
-	public Animator animator;
 
+	private Animator animator;
+	private Attacker attacker;
+
+	void Start() {
+		animator = GetComponent<Animator> ();
+		attacker = GetComponent<Attacker> ();
+	}
 	void OnTriggerEnter2D(Collider2D col) {
-		if (col.gameObject.tag == "projectile") {
-			animator.SetTrigger("Jump");
+		GameObject colObject = col.gameObject;
+		if (!(colObject.GetComponent<Defender> () || colObject.GetComponent<Projectile>())) {
+			return;
+		}
+		if (colObject.GetComponent<Projectile> () || colObject.GetComponent<Stone> ()) {
+			animator.SetTrigger ("Jump");
+		} else {
+			attacker.Attack();
 		}
 
 	}

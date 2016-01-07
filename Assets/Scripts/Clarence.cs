@@ -15,12 +15,18 @@ public class Clarence : MonoBehaviour {
 	}
 	
 	void Update() {
-		float time = Time.timeSinceLevelLoad - lastAttackTime;
-		print (time);
-		if(time > timeBetweenAttacks) {
-			attacker.Attack();
-			lastAttackTime = Time.timeSinceLevelLoad;
+
+	}
+
+	void OnTriggerEnter2D(Collider2D collider) {
+		GameObject colObject = collider.gameObject;
+		print ("Clarence collided with: " + colObject);
+
+		if (!colObject.GetComponent<Defender> ()) {
+			return;
 		}
+
+		attacker.Attack ();
 	}
 	
 	
