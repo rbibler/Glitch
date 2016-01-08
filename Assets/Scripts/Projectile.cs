@@ -3,12 +3,19 @@ using System.Collections;
 
 public class Projectile : MonoBehaviour {
 
-	void Start() {
-		gameObject.tag = "projectile";
+	public float speed;
+	public float damage;
+
+	void Update() {
+		transform.Translate (Vector3.right * speed * Time.deltaTime);
 	}
 
 	void OnTriggerEnter2D(Collider2D col) {
-
-		Debug.Log (gameObject + " Collided with: " + col.gameObject);
+		Attacker attacker = col.gameObject.GetComponent<Attacker> ();
+		if (!attacker) {
+			return;
+		}
+		attacker.TakeDamage (damage);
+		Destroy (gameObject);
 	}
 }

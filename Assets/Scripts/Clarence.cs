@@ -20,12 +20,9 @@ public class Clarence : MonoBehaviour {
 
 	void OnTriggerEnter2D(Collider2D collider) {
 		GameObject colObject = collider.gameObject;
-		print ("Clarence collided with: " + colObject);
-
 		if (!colObject.GetComponent<Defender> ()) {
 			return;
 		}
-
 		attacker.Attack (colObject.GetComponent<Defender>());
 	}
 	

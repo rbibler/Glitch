@@ -1,15 +1,16 @@
 ﻿using UnityEngine;
 using System.Collections;
 
+[RequireComponent (typeof (Health))]
 public class Attacker : MonoBehaviour {
 
 	private float xVel;
 	public Animator animator;
-	
+	private Health health;
 	private Defender currentTarget;
 	// Use this for initialization
 	void Start () {
-	
+		health = GetComponent<Health> ();
 	}
 	
 	// Update is called once per frame
@@ -37,5 +38,12 @@ public class Attacker : MonoBehaviour {
 	public void CancelAttack() {
 		currentTarget = null;
 		animator.SetBool ("isAttacking", false);
+	}
+
+	public void TakeDamage(float damage) {
+		float remainingHealth = health.ReduceHealth (damage);
+		if (damage <= 0) {
+			Destroy(gameObject);
+		}
 	}
 }
